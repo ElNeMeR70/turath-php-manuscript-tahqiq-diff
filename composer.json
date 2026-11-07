@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/turath-php-manuscript-tahqiq-diff",
+  "description": "Islamic Manuscript Collation (Muqabalah) & Critical Apparatus Generator (موازن نسخ المخطوطات الإسلامية وإثبات الفروق التحقيقية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
